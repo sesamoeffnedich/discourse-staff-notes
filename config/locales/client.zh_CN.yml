@@ -4,4 +4,4 @@ zh_CN:
       title: "员工备注"
       attach: "添加员工备注"
       remove: "删除备注"
-      show: "({{count}})条员工备注"
+      show: "员工备注 ({{count}})"
