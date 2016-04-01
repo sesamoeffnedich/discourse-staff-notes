@@ -1,0 +1,4 @@
+zh_CN:
+  site_settings:
+    staff_notes_enabled: "允许员工在社区成员的帖子上添加备注"
+    staff_notes_moderators_delete: "允许版主删除员工备注"
